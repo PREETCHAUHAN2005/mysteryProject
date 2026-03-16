@@ -146,3 +146,4 @@ export function validateNameClient(name) {
 }
 
 export { CONTRACT_ID, XLM_TOKEN }
+
